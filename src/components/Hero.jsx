@@ -5,11 +5,11 @@ export default function Hero() {
     <section className="hero" id="hero">
       <div className="hero-content">
 
-        <h1
+      <h1
   className="
     hero-brand animate brand-delay
-    text-xl sm:text-3xl md:text-5xl lg:text-6xl
-    font-extrabold tracking-tight leading-tight text-center px-3
+    text-3xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl
+    font-extrabold tracking-tight leading-tight text-center px-4
   "
 >
   The Mahaveer <span className="text-[#ffa500]">Gym</span>
